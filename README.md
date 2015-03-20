@@ -3,6 +3,8 @@ Realism Overhaul Configuration Pack for TestFlight
 
 This provides the part configurations for TestFlight to work with Realism Overhaul parts.
 
+[![Build Status](https://travis-ci.org/jwvanderbeck/TestFlightConfigPack_RealismOverhaul.svg?branch=master)](https://travis-ci.org/jwvanderbeck/TestFlightConfigPack_RealismOverhaul)
+
 Requirements
 -------------
 TestFlight
